@@ -12,6 +12,6 @@ def word_count(string):
 		else:
 			string_dict[word] = 1
 	return string_dict
-	print(string_dict)
+	print string_dict
 
 word_count(string)
